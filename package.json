@@ -4,7 +4,7 @@
   "description": "ExamplePhotoResizeServer",
   "dependencies": {
     "aws-sdk": "2.0.x",
-    "mime": "1.2.x",
+    "mime": "2.4.x",
     "sequelize": "1.7.x",
     "mysql": "2.3.2",
     "imagemagick": "0.1.x"
